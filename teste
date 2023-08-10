@@ -1,1 +1,9 @@
 Testando o git pull
+git commit
+git pull
+git push
+git init
+git diff
+git log
+git restore --staged .\nome do arquivo
+git clone
